@@ -1,6 +1,4 @@
-### Hi, I'm CellWelder 👋
-
-**Backend .NET developer** from Poland 🇵🇱
+### Hi 👋
 
 I started in IT as a helpdesk technician, moved into systems administration – and kept writing small tools for colleagues on the side. Since 2023 I build backend systems full-time: clean architecture, data access patterns and maintainable business logic.
 
